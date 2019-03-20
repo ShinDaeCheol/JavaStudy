@@ -1,6 +1,7 @@
 package ch01;
 
 public class Print {
+
 	public static void main(String[] args) {
 		
 		//실행키== 컨트롤+F11
